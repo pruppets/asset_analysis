@@ -32,4 +32,5 @@ ibm.to_csv('G:\\PyCharm Projects\\asset_analysis\\ibm.csv')
 data = pd.concat([aapl['Close'], spy['Close'], ibm['Close']], axis=1)
 data.to_csv('G:\\PyCharm Projects\\asset_analysis\\data.csv')
 
+
 print('for break')
