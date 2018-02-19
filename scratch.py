@@ -39,4 +39,5 @@ type(summary)
 
 #dictionary with the statsitics for a given column (stock)
 type(summary[0])
+
 print('for break')
